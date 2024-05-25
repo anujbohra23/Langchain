@@ -1,0 +1,4 @@
+This is a simple chatbot in langchain using openai api and lagchain api.
+In app.py a simple streamlit application is built using both api and in localllama ollama is used which makes models run on local devices
+Command : ollama run modelname
+But, ollama is very slow becausse of my cpu power
